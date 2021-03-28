@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+.menu{
+    width: 20%;
+    float: left;
+    font-family: Verdana;
+}
+.menu li:hover{
+    background-color: rgba(88, 85, 85, 0.61);
+}
+.contenido{
+    width: 70%;
+    float: left;
+}
+.articulo{
+   background-color: aqua; 
+   padding: 5%;
+   font-family: Verdana;
+}
+.articulo2{
+    background-color:gold; 
+    padding: 5%;
+    font-family: Verdana;
+}
+.articulo3{
+    background-color:chocolate; 
+    padding: 5%;
+    font-family: Verdana;
+}
+.articulo4{
+    background-color:red; 
+    padding: 5%;
+    font-family: Verdana;
+}
+
+ul{
+    display: block;
+}
+li{
+    display: block;
+}
+body{
+    background-color: darkslategray;
+    color: white;
+}
